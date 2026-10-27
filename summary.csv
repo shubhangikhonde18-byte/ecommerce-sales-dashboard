@@ -1,0 +1,4 @@
+Department,employees,avg_salary,max_age
+IT,3,60000.0,40
+HR,2,43500.0,32
+Sales,2,30500.0,28
